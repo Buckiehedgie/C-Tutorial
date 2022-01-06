@@ -1,5 +1,6 @@
-# C-Tutorial
-Tutorial Video (giraffe)
-This is a basics of C tutorial
-This is a link to the youtube video
+# Programming-Tutorials
+Tutorial Videos (giraffe)
+This is a link to the youtube C video
 https://www.youtube.com/watch?v=KJgsSFOSQv0
+This is a link to the youtube C++ video
+https://www.youtube.com/watch?v=vLnPwxZdW4Y
